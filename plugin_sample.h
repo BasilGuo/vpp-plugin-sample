@@ -20,7 +20,7 @@ extern plugin_sample_main_t plugin_sample_main;
 
 extern vlib_node_registration_t plugin_sample_node;
 
-#define PLUGIN_SAMPLE_PLUGIN_BUILD_VER "1.0"
+#define PLUGIN_SAMPLE_PLUGIN_BUILD_VER "1.1"
 
 #endif /* __included_plugin_sample_h__ */
 
