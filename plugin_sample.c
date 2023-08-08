@@ -109,7 +109,7 @@ VLIB_CLI_COMMAND (plugin_sample_command, static) = {
 VLIB_CLI_COMMAND (plugin_sample6_command, static) = {
     .path = "plugin sample6",
     .short_help =
-        "plugin sample <interface-name> [enable | disable]",
+        "plugin sample6 <interface-name> [enable | disable]",
     .function = plugin_sample6_enable_disable_command_fn,
 };
 
